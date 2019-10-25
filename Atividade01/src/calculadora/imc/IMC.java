@@ -71,7 +71,4 @@ public class IMC extends JFrame {
 		setSize(322,200);
 		setVisible(true);
 	}
-	public static void main(String[] args) {
-		new IMC();
-	}
 }
